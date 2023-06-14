@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'keyestudio WiKi'
+project = 'Arduino IDE Tutorial'
 copyright = 'keyestudio , WiKi'
 author = 'keyestudio WiKi'
 

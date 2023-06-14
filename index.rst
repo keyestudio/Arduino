@@ -1,10 +1,9 @@
 
 .. toctree::
    :maxdepth: 5
-   :caption: keyestudio docs
+   :caption: Arduino IDE Tutorial
 
-   README.md
-   docs/keyestudio/index
+   Arduino IDE Tutorial.md
 
 
 
