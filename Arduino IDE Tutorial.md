@@ -40,7 +40,7 @@ For details, please refer to the following table:
 
 | Development Board | Driver |           Windows System           |         MAC System         |
 | :---------------: | :----: | :--------------------------------: | :------------------------: |
-|       NANO        | CH340  |  [CH340-WINDOWS](windowsCH340.md)  |  [CH340-MAC](MacCH340.md)  |
+|   NANO,328PULS    | CH340  |  [CH340-WINDOWS](windowsCH340.md)  |  [CH340-MAC](MacCH340.md)  |
 |  ESP32,Plus UNO   | CP2102 | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
 
 ## **3. Arduino IDE Settings**

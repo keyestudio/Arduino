@@ -14,7 +14,7 @@ If the following situation occurs, you need to manually install the driver.
 
 ![new(14)](./media/new(14).png)
 
-Click ![image-20230531114825326](./media/image-20230531114825326.png)or ![img](./media/wps4.jpg)to select “Update driver”. And then the driver will start to install. 
+Click ![image-20230531114825326](./media/image-20230531114825326.png)to select “Update driver”. And then the driver will start to install. 
 
 ![](./media/new(15).png)
 
