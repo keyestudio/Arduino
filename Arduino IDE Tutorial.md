@@ -2,7 +2,7 @@
 
 ## 1. Download arduino IDE
 
-### **A. Windows System**
+**A. Windows System**
 
 You could download Arduino IDE from the official website: [https://www.arduino.cc/](https://www.arduino.cc/)
 
@@ -22,7 +22,7 @@ There are two versions of IDE for WINDOWS system. You can choose between the ins
 
 You just need to click **JUST DOWNLOAD**.
 
-### **B. Mac System**
+**B. Mac System**
 
 The versions of Arduino IDE vary from operation systems.
 
@@ -84,7 +84,7 @@ Click![](./media/image-20230531140203077.png)icon to open Arduino IDE.
 
 First of all, the corresponding Arduino library files are required. 
 
-### **1) What are Libraries ?**
+**1) What are Libraries ?**
 
 Libraries are a collection of code that make it easy for you to connect a sensor,display, module, etc.
 
@@ -92,7 +92,7 @@ For example, the built-in LiquidCrystal library helps talk to LCD displays.
 
 There are hundreds of additional libraries available on the Internet for download. The built-in libraries and some of these additional libraries are listed in the reference.
 
-### **2) How to Install a Library ?**
+**2) How to Install a Library ?**
 
 Here we will introduce the most simple way to add libraries.
 
