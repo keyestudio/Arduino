@@ -1,6 +1,6 @@
 # **Arduino IDE Tutorial**
 
-## 1. Download arduino IDE
+## **1. Download arduino IDE**
 
 **A. Windows System**
 
