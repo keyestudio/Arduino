@@ -2,6 +2,8 @@
 
 Typically, we cannot find ESP32 board from “Board” in “Tools”. Because we have not install this board on Arduino IDE yet.
 
+![123-1698638335889-4](./media/123-1698638335889-4.png)
+
 Here are the procedures of ESP32 board installation:
 
 Open Arduino IDE.

@@ -22,7 +22,7 @@ There is a DRIVERS folder in Arduino software installed package, please open thi
 
 Click “Browse...”, then search the driver of CP2102 and click“Next”.
 
-![img](./media/wps9.jpg)
+![wps9](./media/wps9.png)
 
 After a while, the driver is installed successfully.
 

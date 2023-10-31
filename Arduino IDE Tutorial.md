@@ -1,8 +1,16 @@
 # **Arduino IDE Tutorial**
 
-## **1. Download arduino IDE**
+**WHAT IS ARDUINO?**
 
-**A. Windows System**
+Arduino is an open-source electronics platform based on easy-to-use hardware and software. It's intended for anyone making interactive projects.
+
+**ARDUINO SOFTWARE**
+
+You can tell your Arduino what to do by writing code in the Arduino programming language and using the Arduino development environment.
+
+## 1. Download arduino IDE
+
+### **A. Windows System**
 
 You could download Arduino IDE from the official website: [https://www.arduino.cc/](https://www.arduino.cc/)
 
@@ -22,7 +30,7 @@ There are two versions of IDE for WINDOWS system. You can choose between the ins
 
 You just need to click **JUST DOWNLOAD**.
 
-**B. Mac System**
+### **B. Mac System**
 
 The versions of Arduino IDE vary from operation systems.
 
@@ -32,11 +40,33 @@ For how to download Arduino IDE on Mac, please refer to Windows:
 
 After downloading, double-click to open it and follow the installation instructions.
 
+### **C.Detailed installation steps：**
+
+1.Save the .exe file downloaded from the software page to your hard drive and simply run the file .
+
+![image-20231030111507277](./media/image-20231030111507277.png)
+
+2.Read the License Agreement and agree it.
+
+![image-20231030111548510](./media/image-20231030111548510.png)
+
+3.Choose the installation options.
+
+![image-20231030111609783](./media/image-20231030111609783.png)
+
+4.Choose the install location.
+
+![image-20231030111627536](./media/image-20231030111627536.png)
+
+5.Click finish and run Arduino IDE
+
+![image-20231030111656023](./media/image-20231030111656023.png)
+
 ## **2. Install Driver**
 
 We need a driver to boot our development board. Or else, the COM port connected to computer will not be found. 
 
-For details, please refer to the following table:
+Select the corresponding development board and computer system in the table and click the link to enter the tutorial:
 
 | Development Board | Driver |           Windows System           |         MAC System         |
 | :---------------: | :----: | :--------------------------------: | :------------------------: |
@@ -68,7 +98,7 @@ Click![](./media/image-20230531140203077.png)icon to open Arduino IDE.
 
 ## **4. Upload Code via Arduino IED**
 
-**“ / ” means the same as Keyestudio Plus UNO Tutorial.**
+**Example of using Keystudio Plus UNO for tutorials marked with '/'**
 
 | Development board             |           windows system            |             MAC system              |
 | :---------------------------- | :---------------------------------: | :---------------------------------: |
@@ -84,7 +114,7 @@ Click![](./media/image-20230531140203077.png)icon to open Arduino IDE.
 
 First of all, the corresponding Arduino library files are required. 
 
-**1) What are Libraries ?**
+### **1) What are Libraries ?**
 
 Libraries are a collection of code that make it easy for you to connect a sensor,display, module, etc.
 
@@ -92,22 +122,32 @@ For example, the built-in LiquidCrystal library helps talk to LCD displays.
 
 There are hundreds of additional libraries available on the Internet for download. The built-in libraries and some of these additional libraries are listed in the reference.
 
-**2) How to Install a Library ?**
+If there is an error 'No such file or directory' when compiling or uploading code, it means the library file is missing. As shown in the figure below, the error occurred when uploading LCD1602 module code due to the missing 'LiquidCrystal_I2C' library file.
+
+![image-20231030131942400](./media/image-20231030131942400.png)
+
+### **2) How to Install a Library ?**
+
+<p style="color:red;">Let's take adding the "LiquidCrystal_I2C" library file as an example.<p>
 
 Here we will introduce the most simple way to add libraries.
 
 Click **Skerch > Include Library > Add .Zip Library...** in sequence. 
 
 
-![](./media/image-20230601103322108.png)
+![5646545](./media/5646545.png)
 
 Find files(.zip) you need to add as library and wait. “**Library installed**” will be displayed if library is successfully added.
 
-![image-20230601103418582](./media/image-20230601103418582.png)
+![446518](./media/446518.png)
+
+![image-20231031114018284](./media/image-20231031114018284.png)
+
+**Dynamic operation example:**
+
+![146185](./media/146185.gif)
 
 For how to include a library, the method of the two system is the same. 
-
-
 
 For more details, please visit our official website: [https://www.keyestudio.com/](https://www.keyestudio.com/)
 

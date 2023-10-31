@@ -2,6 +2,8 @@
 
 Typically, we cannot find Pico board from “Board” in “Tools”. Because we have not install this board on Arduino IDE yet.
 
+![1234](./media/1234-1698713479663-1.png)
+
 Here are the procedures of Pico board installation.
 
 Open Arduino IDE. Then click Board Manager![image-20230601091859259](./media/image-20230601091859259.png):
