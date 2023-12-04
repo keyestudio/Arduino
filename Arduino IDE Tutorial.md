@@ -1,4 +1,4 @@
-# **Arduino IDE Tutorial**
+# **Getting started with Arduino**
 
 **WHAT IS ARDUINO?**
 

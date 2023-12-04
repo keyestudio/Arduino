@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 5
-   :caption: Arduino IDE Tutorial
+   :caption: Getting started with Arduino
 
    Arduino IDE Tutorial.md
 
