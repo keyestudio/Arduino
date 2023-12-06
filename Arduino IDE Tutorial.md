@@ -8,9 +8,9 @@ Arduino is an open-source electronics platform based on easy-to-use hardware and
 
 You can tell your Arduino what to do by writing code in the Arduino programming language and using the Arduino development environment.
 
-## 1. Download arduino IDE
+# **1. Download arduino IDE**
 
-### **A. Windows System**
+## **A. Windows System**
 
 You could download Arduino IDE from the official website: [https://www.arduino.cc/](https://www.arduino.cc/)
 
@@ -30,7 +30,7 @@ There are two versions of IDE for WINDOWS system. You can choose between the ins
 
 You just need to click **JUST DOWNLOAD**.
 
-### **B. Mac System**
+## **B. Mac System**
 
 The versions of Arduino IDE vary from operation systems.
 
@@ -40,7 +40,7 @@ For how to download Arduino IDE on Mac, please refer to Windows:
 
 After downloading, double-click to open it and follow the installation instructions.
 
-### **C.Detailed installation steps：**
+## **C.Detailed installation steps：**
 
 1.Save the .exe file downloaded from the software page to your hard drive and simply run the file .
 
@@ -62,7 +62,7 @@ After downloading, double-click to open it and follow the installation instructi
 
 ![image-20231030111656023](./media/image-20231030111656023.png)
 
-## **2. Install Driver**
+# **2. Install Driver**
 
 We need a driver to boot our development board. Or else, the COM port connected to computer will not be found. 
 
@@ -73,7 +73,7 @@ Select the corresponding development board and computer system in the table and 
 |   NANO,328PULS    | CH340  |  [CH340-WINDOWS](windowsCH340.md)  |  [CH340-MAC](MacCH340.md)  |
 |  ESP32,Plus UNO   | CP2102 | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
 
-## **3. Arduino IDE Settings**
+# **3. Arduino IDE Settings**
 
 Click![](./media/image-20230531140203077.png)icon to open Arduino IDE.
 
@@ -96,7 +96,7 @@ Click![](./media/image-20230531140203077.png)icon to open Arduino IDE.
 15. Sketch editing area.
 16. IDE Output: To report error or successful uploading, and to display data from serial monitor.
 
-## **4. Upload Code via Arduino IED**
+# **4. Upload Code via Arduino IED**
 
 **Example of using Keystudio Plus UNO for tutorials marked with '/'**
 
@@ -110,11 +110,11 @@ Click![](./media/image-20230531140203077.png)icon to open Arduino IDE.
 | Keyestudio ESP32\ESP32 Plus   |   [Win ESP32 Tutorial](win-ESP32)   |   [Mac ESP32 Tutorial](mac-ESP32)   |
 | raspberry pi pico             |    [Win Pico Tutorial](win-Pico)    |    [Mac Pico Tutorial](mac-Pico)    |
 
-## **5. Import Library**
+# **5. Import Library**
 
 First of all, the corresponding Arduino library files are required. 
 
-### **1) What are Libraries ?**
+## **1 What are Libraries ?**
 
 Libraries are a collection of code that make it easy for you to connect a sensor,display, module, etc.
 
@@ -126,7 +126,7 @@ If there is an error 'No such file or directory' when compiling or uploading cod
 
 ![image-20231030131942400](./media/image-20231030131942400.png)
 
-### **2) How to Install a Library ?**
+## **2 How to Install a Library ?**
 
 <p style="color:red;">Let's take adding the "LiquidCrystal_I2C" library file as an example.<p>
 
