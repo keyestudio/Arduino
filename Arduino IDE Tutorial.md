@@ -122,7 +122,7 @@ Click![](./media/image-20230531140203077.png)icon to open Arduino IDE.
 
 First of all, the corresponding Arduino library files are required. 
 
-## **1 What are Libraries ?**
+## **A. What are Libraries ?**
 
 Libraries are a collection of code that make it easy for you to connect a sensor,display, module, etc.
 
@@ -134,7 +134,7 @@ If there is an error 'No such file or directory' when compiling or uploading cod
 
 ![image-20231030131942400](./media/image-20231030131942400.png)
 
-## **2 How to Install a Library ?**
+## **B. How to Install a Library ?**
 
 <p style="color:red;">Let's take adding the "LiquidCrystal_I2C" library file as an example.<p>
 
