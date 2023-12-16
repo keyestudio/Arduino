@@ -1,4 +1,4 @@
-# **ESP32 Development Board for MAC **
+# **ESP32 Development Board for MAC**
 
 Typically, we cannot find ESP32 board from “Board” in “Tools”. Because we have not install this board on Arduino IDE yet.
 

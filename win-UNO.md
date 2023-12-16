@@ -1,4 +1,4 @@
-# **UNO Development Board for Windows****
+# **UNO Development Board for Windows**
 
 Upload code: An examples code is provided here: it will print “Hello Keyestudio!” per second.
 
