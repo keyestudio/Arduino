@@ -70,15 +70,15 @@ Select the corresponding development board and computer system in the table and 
 
 | Sku | Development Board |Image                      |           Windows System           |         MAC System         |
 |:---: | :---------------:  | :------------------:    | :--------------------------------: | :------------------------: |
-|ks0497|  keyestudio V4.0   |![](./media/ksuno.jpg)   | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
-|ks0498|  keyestudio MEGA   |![](./media/ksmega.jpg)  | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
-|ks0486|  keyestudio Plus   |![](./media/ksplus.jpg)  | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
+|ks0497|  keyestudio V4.0   |![](./media/ksuno.png)   | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
+|ks0498|  keyestudio MEGA   |![](./media/ksmega.png)  | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
+|ks0486|  keyestudio Plus   |![](./media/ksplus.png)  | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
 |ks0499|keyestudio MEGA Plus|![](./media/megaplus.png)| [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
-|ks0173|  keyestudio NANO   |![](./media/ksnano.jpg)  | [CH340-WINDOWS](windowsCH340.md)   |  [CH340-MAC](MacCH340.md)  |
-|ks0546|keyestudio 328 PULS |![](./media/328plus.jpg) | [CH340-WINDOWS](windowsCH340.md)   |  [CH340-MAC](MacCH340.md)  |
-|KS0413|  keyestudio ESP32  |![](./media/ksesp32.jpg) | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
+|ks0173|  keyestudio NANO   |![](./media/ksnano.png)  | [CH340-WINDOWS](windowsCH340.md)   |  [CH340-MAC](MacCH340.md)  |
+|ks0546|keyestudio 328 PULS |![](./media/328plus.png) | [CH340-WINDOWS](windowsCH340.md)   |  [CH340-MAC](MacCH340.md)  |
+|KS0413|  keyestudio ESP32  |![](./media/ksesp32.png) | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
 |KS5016|  keyestudio ESP32S |![](./media/esp32s.png)  | [CH340-WINDOWS](windowsCH340.md)   |  [CH340-MAC](MacCH340.md)  |
-|KS0389| keyestudio ESP8266 |![](./media/esp8266.jpg) | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
+|KS0389| keyestudio ESP8266 |![](./media/esp8266.png) | [CP2102-WINDOWS](windowsCP2102.md) | [CP2102-MAC](MacCP2102.md) |
 
 
 # **3. Arduino IDE Settings**
