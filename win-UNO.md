@@ -1,4 +1,4 @@
-# **Windows Arduino IDE 开发板使用教程**
+# **UNO Development Board for Windows****
 
 Upload code: An examples code is provided here: it will print “Hello Keyestudio!” per second.
 

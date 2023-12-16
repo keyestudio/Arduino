@@ -1,4 +1,4 @@
-# **Mac Arduino IDE Development Board**
+# **UNO Development Board for Mac**
 
 Upload code: An examples code is provided here: it will print “Hello Keyestudio!” per second.
 

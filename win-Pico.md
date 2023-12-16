@@ -1,4 +1,4 @@
-# **Windows Arduino IDE Pico开发板使用教程**
+# **Pico Development Board for Windows**
 
 Typically, we cannot find Pico board from “Board” in “Tools”. Because we have not install this board on Arduino IDE yet.
 

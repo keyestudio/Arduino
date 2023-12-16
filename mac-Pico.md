@@ -1,4 +1,4 @@
-# **Mac Arduino IDE Pico Development Board**
+# **Pico Development Board for Mac**
 
 Typically, we cannot find Pico board from “Board” in “Tools”. Because we have not install this board on Arduino IDE yet.
 
