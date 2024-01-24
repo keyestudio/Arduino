@@ -2,6 +2,8 @@
 
 **Step 1**: Download the driver from the Website and extract the file to the local installation directory.
 
+[https://fs.keyestudio.com/CH340-MAC](https://fs.keyestudio.com/CH340-MAC)
+
 ![](./media/202212261.png)
 
 **Step 2**: For details about how to install the driver in pkg format by default, see Step 3. If OS X 11.0 or later does not support Rosetta, refer to Step 4 to install the dmg driver.
